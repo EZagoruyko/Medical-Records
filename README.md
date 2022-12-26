@@ -11,5 +11,6 @@
 
 Файлы:
 mtsamples.csv - датасет медицинских записей Medical Transcriptions, источник: https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions;
+
 MedRecords.ipynb - Python-ноутбук с результатом работы.
 
