@@ -14,3 +14,4 @@ mtsamples.csv - датасет медицинских записей Medical Tra
 
 MedRecords.ipynb - Python-ноутбук с результатом работы.
 
+mtsamples_processed.csv - выгрузка обработанного датасета.
